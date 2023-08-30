@@ -1,0 +1,5 @@
+.aws
+data.csv
+.env
+output.txt
+data/*
